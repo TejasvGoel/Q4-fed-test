@@ -87,6 +87,13 @@
   }
 }
 
+/* MEDIA BREAK PINT 768px */
+@media only screen and (max-width: 600px) {
+  .reports{
+      justify-content: space-evenly;
+  }
+}
+
 
 
 /* MEDIA BREAK PINT 400px */
