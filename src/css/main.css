@@ -69,7 +69,7 @@
 
 }
 
-/* MEDIA BREAK POINT - 992px */
+/* MEDIA BREAK POINT for 992px */
 @media only screen and (min-width: 600px) and (max-width: 992px) {
   #q4Wrapper h3{
     margin: 0;
@@ -80,14 +80,14 @@
   }
 }
 
-/* MEDIA BREAK POINT 774px */
+/* MEDIA BREAK POINT for 774px */
 @media only screen and (max-width: 774px) {
   .reports{
       margin: 0 20px;
   }
 }
 
-/* MEDIA BREAK PINT 768px */
+/* MEDIA BREAK POINT for 768px */
 @media only screen and (max-width: 600px) {
   .reports{
       justify-content: space-evenly;
@@ -96,7 +96,7 @@
 
 
 
-/* MEDIA BREAK PINT 400px */
+/* MEDIA BREAK POINT  for 400px */
 @media only screen and (max-width: 400px) {
   #q4Wrapper h1 {
       font-size: 32px;
